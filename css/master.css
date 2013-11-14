@@ -34,6 +34,26 @@ html, body {
 	text-align: center;
 	vertical-align: middle;
 }
+
+
+#boton_activo{
+	width:130px;
+	height:28px;
+	background: url("../img/button_bg-active.png") repeat-x;
+	float:right;
+	padding-top:12px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#boton_activo a{
+
+	color:#000;
+	font-family:"Arial";
+	font-size:14px;
+	text-decoration: none;
+}
+
 .botton a{
 
 	color:#ffe116;
@@ -44,6 +64,8 @@ html, body {
 
 #logo{
 	margin:40px 0 0 50px;
+
+	
 }
 
 
@@ -62,7 +84,10 @@ html, body {
 	display:block;
 }
 
-
+body#productos{
+	background: #000 url("../img/fondo-productos.jpg");
+	background-size:100% auto;
+}
 
 
 
