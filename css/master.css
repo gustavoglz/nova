@@ -45,3 +45,29 @@ html, body {
 #logo{
 	margin:40px 0 0 50px;
 }
+
+
+
+#fondo_productos{
+	background: url("../img/fondo_botton_productos.png");
+	width:551px;
+	height:150px;
+	float:right;
+	margin:100px 0 0 0;
+}
+
+#fondo_productos a{
+	width:551px;
+	height:150px;
+	display:block;
+}
+
+
+
+
+
+
+
+
+
+
