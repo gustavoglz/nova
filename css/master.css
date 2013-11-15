@@ -84,7 +84,7 @@ html, body {
 }
 
 body#productos{
-	background: #000 url("../img/fondo-productos.jpg");
+	background: #000 url("../img/fondo-productos.jpg") no-repeat;
 	background-size:100% auto;
 }
 
